@@ -276,5 +276,4 @@ This project is an independent research/software project.
 
 **Abdulla Ovais**
 
-Graduate Researcher
-Indian Institute of Technology Hyderabad
+
